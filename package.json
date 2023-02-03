@@ -1,6 +1,6 @@
 {
   "name": "@gideon/eslint-config-next",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "My preferred eslint config for Next.js",
   "author": "Gideon Spierings <gideongideon@gmail.com>",
   "homepage": "https://github.com/Gideonnn/eslint-config-next",
