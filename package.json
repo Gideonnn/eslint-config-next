@@ -1,0 +1,26 @@
+{
+  "name": "@gideon/eslint-config-next",
+  "version": "0.0.1",
+  "description": "My preferred eslint config for Next.js",
+  "author": "Gideon Spierings <gideongideon@gmail.com>",
+  "homepage": "https://github.com/Gideonnn/eslint-config-next",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Gideonnn/eslint-config-next.git"
+  },
+  "license": "WTFPL",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "peerDependencies": {
+    "eslint": ">=8"
+  },
+  "dependencies": {
+    "eslint-config-prettier": "^8.6.0",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-simple-import-sort": "^10.0.0"
+  }
+}
