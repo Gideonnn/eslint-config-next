@@ -63,6 +63,8 @@ jobs:
   publish:
     runs-on: ubuntu-18.04
     needs: version
+    permissions:
+      actions: write
     steps:
       - uses: actions/checkout@v2
 
